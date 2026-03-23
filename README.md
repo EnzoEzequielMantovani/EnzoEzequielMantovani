@@ -13,10 +13,11 @@
 
 ## 🧠 PROFILE
 ```bash
-> Name: Enzo Mantovani
+> Name: Enzo Ezequiel Mantovani
 > Age: 27
 > Location: Buenos Aires, Argentina
-> Career: IT Student (Universidad Kennedy)
+> Email: enzoezequiel1998@outlook.com
+> Career: IT - T.Programation (UNAB) Alt. Brown 
 > Current Job: Logistics & Order Dispatch (Jumbo - Cencosud)
 > Focus: AI + Process Automation + Web Development
 > Status: Building skills and real-world solutions
