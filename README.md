@@ -87,15 +87,7 @@ const enzo = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoEzequielMantovani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&ring_color=FF8C00" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoEzequielMantovani&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=EnzoEzequielMantovani&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="65%" src="https://streak-stats.demolab.com?user=EnzoEzequielMantovani&theme=dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
