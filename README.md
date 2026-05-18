@@ -20,17 +20,18 @@ Buenos Aires, Argentina 🇦🇷
 
 ## About me
 
-I design and ship full-stack web products end-to-end — from architecture and database design to production deployment and client delivery.
+I design and ship full-stack digital products end-to-end — from architecture and database design to production deployment and client delivery.
 
-I'm the founder and lead developer at **VaniSur**, a digital agency based in Buenos Aires where I build custom software solutions: SaaS platforms, white-label admin systems, e-commerce stores, and internal business tools.
+I'm the founder and lead developer at **VaniSur**, a digital agency based in Buenos Aires where I build complete software solutions: SaaS platforms, AI agents, automation systems, mobile apps, white-label admin panels, and custom enterprise software — all powered by AI to deliver at 10× the speed of traditional agencies.
 
 ```ts
 const enzo = {
   role:     "Full Stack Developer & Founder",
   agency:   "VaniSur — Infraestructura digital para negocios",
   location: "Buenos Aires, Argentina 🇦🇷",
-  focus:    ["SaaS", "E-commerce", "Admin Panels", "API Integrations"],
-  building: "Production-grade web systems for real businesses",
+  focus:    ["SaaS", "AI Agents", "Automation", "E-commerce", "Custom Software"],
+  building: "Production-grade systems for real businesses",
+  edge:     "AI-powered development at enterprise speed, agency price",
 }
 ```
 
@@ -43,44 +44,59 @@ const enzo = {
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_/_Laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-FF8C00?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector_RAG-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=080a08)
 
-**Infraestructura & Tools**
+**Infrastructure & Tools**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Payment Integrations**
+**Payments & Integrations**
 
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 
 ---
 
-## What I'm building at VaniSur
+## What I build at VaniSur
 
-**VaniSur** es una agencia digital argentina que desarrollo y dirijo. Diseño, construyo y entrego soluciones web completas para negocios reales.
+**VaniSur** es una agencia digital argentina que diseño, construyo y dirijo. Usamos IA como multiplicador de fuerza para entregar en días lo que equipos de 8+ tardan semanas.
 
-| Producto | Stack | Descripción |
-|----------|-------|-------------|
-| **VaniSur Admin** | Next.js 14, Prisma, Supabase, Vercel | Panel interno multi-tenant: clientes, membresías, licencias, pagos y soporte |
-| **Tiendas E-commerce** | Next.js, Firebase, Firestore, Tailwind | Tiendas white-label con carrito, stock, cupones y Mercado Pago integrado |
-| **Portales de cliente** | Next.js App Router, SDK propio | Portal self-service donde el cliente paga, abre tickets y gestiona su servicio |
-| **SDK de licencias** | JS vanilla, REST API | Sistema de licencias embebible que controla el acceso según el plan de membresía |
+| Producto / Servicio | Stack principal | Descripción |
+|---------------------|-----------------|-------------|
+| **VaniSur Admin** | Next.js 14, Prisma, Supabase, Vercel | Panel multi-tenant: clientes, membresías, licencias, pagos, soporte y cron jobs |
+| **Agentes IA · Claude** | Claude API, Vercel AI SDK, Tool Use | Agentes autónomos multi-paso que analizan, deciden y ejecutan acciones complejas |
+| **RAG / Base de conocimiento** | pgvector, Supabase, OpenAI Embeddings | Chatbots que leen documentos privados del cliente y responden con contexto real |
+| **Automatizaciones** | n8n, Vercel Cron, Webhooks | Flujos automáticos entre sistemas: CRM, facturación, onboarding, cobranzas |
+| **Ecommerce SaaS** | Next.js, Firebase, Mercado Pago | Tiendas white-label sin comisión, stock en tiempo real y panel de gestión |
+| **Gastronomía SaaS** | Next.js, Supabase Realtime | Sistema completo: pedidos, cocina display, caja, ticketera, delivery |
+| **Apps Mobile** | React Native, Expo, TypeScript | iOS + Android desde una sola codebase, OTA updates, publicación en stores |
+| **Software Empresarial** | Python/FastAPI, PHP/Laravel, Next.js | ERPs, sistemas internos, APIs, integraciones y software a medida |
+| **SDK de Licencias** | JS vanilla, JWT, REST API | Sistema embebible de control de acceso por plan de membresía |
 
 ---
 
@@ -96,15 +112,15 @@ const enzo = {
 
 ## Sobre mí / About
 
-🇦🇷 **Español** — Soy desarrollador full stack y fundador de VaniSur, una agencia digital en Buenos Aires. Me especializo en construir sistemas web completos: desde el diseño de base de datos hasta el deploy en producción. Trabajo con Next.js, TypeScript, Prisma y Supabase para crear plataformas SaaS, tiendas e-commerce y paneles de administración para clientes reales.
+🇦🇷 **Español** — Soy desarrollador full stack y fundador de VaniSur, una agencia digital en Buenos Aires. Construyo sistemas completos usando IA como ventaja competitiva: agentes sobre Claude, chatbots con RAG/pgvector, automatizaciones con n8n, apps mobile con React Native, backends Python y sistemas PHP legacy. Entrego en días lo que equipos de 8 personas tardan semanas — sin sacrificar calidad ni escalabilidad.
 
-🌎 **English** — I'm a full stack developer and founder of VaniSur, a digital agency based in Buenos Aires, Argentina. I specialize in building complete web systems — from database architecture to production deployment. I work with Next.js, TypeScript, Prisma, and Supabase to create SaaS platforms, e-commerce stores, and admin dashboards for real-world clients.
+🌎 **English** — I'm a full stack developer and founder of VaniSur, a digital agency in Buenos Aires, Argentina. I build complete production systems using AI as a competitive edge: Claude-based agents, RAG chatbots with pgvector, n8n automations, React Native mobile apps, Python backends, and PHP legacy systems. I deliver in days what teams of 8+ take weeks to ship — without sacrificing quality or scalability.
 
 ---
 
 <div align="center">
 
-*Building real products for real businesses.*
+*Building real products for real businesses. Faster.*
 
 <br/>
 
