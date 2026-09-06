@@ -49,6 +49,16 @@ vanisur-admin (el cerebro)
 - Un motor compartido (`crm-core`) sincronizado a todas las verticales: un arreglo se hace una vez.
 - Deploy manual y verificado, gate de tests de aislamiento antes de cada publicación, y post-mortems escritos cuando algo sale mal.
 
+## Lo que sigue
+
+Dos líneas de producto en desarrollo, dichas con su estado real.
+
+**VANISUR FLEX** · [vanisur.com/flex](https://www.vanisur.com/flex)
+Plataforma de operaciones logísticas para empresas que mueven mercadería: gestión de pedidos (OMS), depósito (WMS) y transporte (TMS) conectados en un solo flujo, con motores de IA para asignar depósito y transportista, optimizar el picking y armar las rutas de reparto. Multi-inquilino por cuenta, roles por operador. Next.js 15, Prisma, PostgreSQL. La arquitectura de los tres módulos está definida y existe un prototipo de los tableros; todavía no es un producto contratable.
+
+**Vanisur Platform** · [vanisur.com/platform](https://www.vanisur.com/platform)
+La infraestructura para que agentes de IA operen una empresa de forma controlada: identidad del negocio, memoria, acciones con permisos y auditoría. Disponible hoy: los productos de IA aplicada (ventas, recepción, operaciones, auditoría) y los verticales con sus demos. En desarrollo: Vanisur Trust, la capa de identidad, autorización y auditoría. El resto está definido a nivel de arquitectura.
+
 ## Actividad
 
 Los tres gráficos se generan desde el historial git real de todos mis repositorios, incluidos los privados, que es donde vive casi todo el código. No dependen de servicios de terceros.
@@ -95,6 +105,8 @@ Lo que efectivamente corre en producción, no una lista de deseos.
 I'm the founder and CEO of **VANISUR**, a software company in Buenos Aires that builds the digital infrastructure of real businesses: retail, restaurants, car dealerships, real estate and insurance agencies.
 
 One system, many businesses. Every client gets a site and a management panel built for their industry, and all of them depend on a central brain that issues and validates licenses. Seven verticals are live, tenants are isolated with row-level security on a single Postgres database, and a license kill-switch blocks any site whose membership is suspended.
+
+In development: **VANISUR FLEX**, a logistics operations platform (OMS, WMS and TMS in one flow, with AI for allocation, picking and routing), and **Vanisur Platform**, the identity, memory, actions, permissions and audit layer for AI agents that operate a business under control.
 
 The activity charts above are generated from the real git history of all my repositories, private ones included. Stack: Next.js, TypeScript, Node.js, PostgreSQL on Supabase, Prisma, Firebase, Vercel and Mercado Pago.
 
