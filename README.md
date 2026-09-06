@@ -6,6 +6,7 @@
 
 [![vanisur.com](https://img.shields.io/badge/vanisur.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=F0820F)](https://www.vanisur.com)
 [![Email](https://img.shields.io/badge/vanisurdigital%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=F0820F)](mailto:vanisurdigital@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=F0820F)](https://www.linkedin.com/in/enzo-mantovani5/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=F0820F)](https://wa.me/5491178243027)
 
 </div>
